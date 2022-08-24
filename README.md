@@ -12,6 +12,8 @@ This project is a demo of ML model python app deployment using an automated pipe
 * Architectural Diagram (Shows how key parts of the system work)
 ![az-architecture-deployment](screenshots/az-architecture-deployment.png)
 
+Use commands.sh to run the app and load tests with example parameters.
+
 * Project running on Azure App Service
 ![webapp-running](screenshots/webapp-running.png)
 
@@ -33,10 +35,13 @@ This project is a demo of ML model python app deployment using an automated pipe
 * Output of streamed log files from deployed application
 ![webapp-logs](screenshots/webapp-logs.png)
 
+Optionally use locust to load test.
+
 ## Enhancements
 
 - Python version and pip modules need custom environments and setup to deploy correctly on current cloud environments. An update of application code, model and dependencies could improve DevOps experience.
 - Variability of Lab environments or standard account create several manual steps that could be automated on a standard deployment.
+- Integrate load testing to build workflow.
 
 ## Demo 
 
