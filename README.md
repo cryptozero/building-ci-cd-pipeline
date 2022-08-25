@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/cryptozero/building-ci-cd-pipeline/actions/workflows/main.yml/badge.svg)](https://github.com/cryptozero/building-ci-cd-pipeline/actions/workflows/main.yml)
 # Overview
 
 This project is a demo of ML model python app deployment using an automated pipeline configured on Azure DevOps service.
