@@ -46,6 +46,4 @@ Optionally use locust to load test.
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
-
-
+Link Screencast on YouTube: ![CI CD Deployment Demo Video](https://youtu.be/0Zp3hyNUsBg)
